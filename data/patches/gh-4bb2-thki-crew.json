@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "THKI CREW",
+	"description": "Un dúo de creadores de contenido conformado por  FULL TIKI y THLMAC ,\nel primero Youtuber creador de contenido random y el segundo Tik Toker Creador de contenido basado en crear timbres en Minecraft con canciones de la cultura popular ",
+	"links": {
+		"website": [
+			"https://www.tiktok.com/@thlmac"
+		]
+	},
+	"path": {
+		"204-233": [
+			[
+				-1107,
+				-213
+			],
+			[
+				-1092,
+				-213
+			],
+			[
+				-1092,
+				-200
+			],
+			[
+				-1107,
+				-200
+			],
+			[
+				-1107,
+				-213
+			]
+		]
+	},
+	"center": {
+		"204-233": [
+			-1099,
+			-206
+		]
+	}
+}
